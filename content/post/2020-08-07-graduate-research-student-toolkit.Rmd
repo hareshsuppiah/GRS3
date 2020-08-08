@@ -1,0 +1,261 @@
+---
+title: Graduate Research Student Toolkit
+author: Haresh
+date: '2020-08-07'
+slug: graduate-research-student-toolkit
+categories: []
+tags: []
+---
+<a href="https://ibb.co/QN4Ws1T"><img src="https://i.ibb.co/mq3nQM2/pexels-andrea-piacquadio-941555.jpg" alt="pexels-andrea-piacquadio-941555" border="0"></a><figcaption>An unusually composed graduate student</figcaption>
+# Graduate Research Life
+<!-- <br> -->
+
+If you've stubled onto this page, chances are that you've recently embarked on your graduate research programme or are somewhere along in your research studies! For this, I applaud your ambition and zeal! 
+
+<a href="https://imgflip.com/i/3upxim"><img src="https://i.imgflip.com/3upxim.jpg"/></a><figcaption>Which you fell for...</figcaption>
+
+## Expectation vs. Reality
+
+Chances are that if (Destination Dissertation)
+
+<a href="https://images.squarespace-cdn.com/content/v1/5709439dc6fc08eb8239fb50/1549196123274-J5N4ZN8ULEO0LLJO5P5M/ke17ZwdGBToddI8pDm48kE_Flx8FzqgJ6wV1_BmCavpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxDowSvHNKM7uXktlTsd4PePhFwcAqvuqHhGG9Stix-l5CUypTMB8SVm3C-9T8WJqc/Complicated+vs+Complex.png?format=750w"><img src="https://images.squarespace-cdn.com/content/v1/5709439dc6fc08eb8239fb50/1549196123274-J5N4ZN8ULEO0LLJO5P5M/ke17ZwdGBToddI8pDm48kE_Flx8FzqgJ6wV1_BmCavpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxDowSvHNKM7uXktlTsd4PePhFwcAqvuqHhGG9Stix-l5CUypTMB8SVm3C-9T8WJqc/Complicated+vs+Complex.png?format=750w"/></a><figcaption>Complex vs Complicated - Credit: http://scotthutcheson.squarespace.com/journal/2019/2/2/complex-or-complicated.</figcaption>
+<br><br><br>
+
+Here's a clip to give you a sense of what to expect throughout a PhD. Keep in mind that no two PhD experiences are alike.
+```{r, include= TRUE, message = FALSE, warning = FALSE}
+
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKUu--wnWtE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<!-- ## Managing Research Stress -->
+
+<!-- ## Competing Time Demands -->
+
+```{r, include= TRUE, message = FALSE, warning = FALSE}
+
+
+```
+<!-- # Refining The Topic -->
+
+# Preparing Your Research Proposal
+
+# The Research Checklist
+
+#### The Thesis Checklist
+ - [ ] Step 1. Engaging in a conceptual conversation
+ - [ ] Step 2. Creating the dissertation preprosal
+ - [ ] Step 3. Approval of the preproposal by your advisor
+ - [ ] Step 4. Collecting the literature
+ - [ ] Step 5. Coding the literature
+ - [ ] Step 6. Writing the literature review
+ - [ ] Step 7. Writing the proposal
+ - [ ] Step 8. Review of the proposal by your advisor
+ - [ ] Step 9. Revising the proposal
+ - [ ] Step 10. Defending the proposal
+ - [ ] Step 11.  Obtaining human subjects approval
+ - [ ] Step 12. Collecting the data
+ - [ ] Step 13. Transforming the data to codable form
+ - [ ] Step 14. Coding the data
+ - [ ] Step 15. Developing a schema to explain the data
+ - [ ] Step 16. Writing a sample analysis
+ - [ ] Step 17. Review of the sample analysis by your advisor
+ - [ ] Step 18. Writing the findings chapter of chapters
+ - [ ] Step 19. Writing the final chapter
+ - [ ] Step 20. Transforming the proposal into a chapter or chapters and preparing the front matter
+ - [ ] Step 21. Editing the chapters
+ - [ ] Step 22. Review of the dissertation by your advisor
+ - [ ] Step 23. Revising the dissertation
+ - [ ] Step 24. Approval of the dissertation by the graduate school
+ - [ ] Step 25. Making final formatting revisions
+ - [ ] Step 26. Review of the dissertation by your committee members
+ - [ ] Step 27. Defending the dissertation
+ - [ ] Revising the dissertation
+ - [ ] Step 29. Submitting the dissertation
+
+Credit: [Destination Dissertation-A Traveler's Guide to a Done Dissertation (Foss & Waters, 2007](https://www.amazon.com/Destination-Dissertation-Travelers-Guide-Done/dp/1442246146))
+
+
+
+<!-- # Oral Presentation Tips -->
+
+# Writing
+
+Here we have James Hayton, of 3 Month Thesis fame, providing great tips on the overall process of PhD thesis writing.
+```{r, include= TRUE, message = FALSE, warning = FALSE}
+
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pM6orL-bGDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Editing
+
+-   Reciteworks (check references): [https://reciteworks.com/](https://reciteworks.com/)
+    
+-   Grammarly (check grammar): [https://www.grammarly.com/](https://www.grammarly.com/)
+    
+-   ProWritingAid: [https://prowritingaid.com/](https://prowritingaid.com/)
+
+# Project Management
+
+<a href="https://imgflip.com/i/3uq3ny"><img src="https://i.imgflip.com/3uq3ny.jpg" title="made at imgflip.com"/></a><figcaption>Picard ain't impressed</figcaption>
+
+#### Project Management Tools
+
+
+ -   Trello: [https://trello.com/](https://trello.com/)
+    
+ -   Get Plan: [https://getplan.co/login](https://getplan.co/login)
+    
+ -   Pacemaker: [https://pacemaker.press](https://pacemaker.press)
+    
+ -   Habitica (gamified): [https://habitica.com/static/home](https://habitica.com/static/home)
+    
+ -   Notion.so: [https://notion.so](https://notion.so)
+    
+ -   ClickUp: [https://clickup.com/](https://clickup.com/)
+    
+ -   NTask: [https://www.ntaskmanager.com/](https://www.ntaskmanager.com/)
+    
+ -   ToDoIst: [https://www.todoist.com/](https://www.todoist.com/)
+  
+ - Dynalist: [https://dynalist.io/](https://dynalist.io/)
+
+
+
+```{r, include= TRUE}
+
+
+
+```
+
+
+# Project Updates 
+
+#### Meetings
+
+<a href="https://hbr.org/resources/images/article_assets/2015/03/W150313_SCHWARZ_MEETINGAGENDA-1-751x1024.png"><img src="https://hbr.org/resources/images/article_assets/2015/03/W150313_SCHWARZ_MEETINGAGENDA-1-751x1024.png" alt="Sample meeting agenda" border="0"></a><figcaption>Source: https://hbr.org/2015/03/how-to-design-an-agenda-for-an-effective-meeting</figcaption><br /><br />
+
+#### Agendas
+
+# Note-taking
+
+-Cornell Note taking
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nX-xshA_0m8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Note-taking resources
+
+ -   Notion: [https://www.notion.so/](https://www.notion.so/)
+    
+ -   Evernote: [https://evernote.com/](https://evernote.com/)
+    
+ -   Squidnotes: [https://www.squidnotes.com/](https://www.squidnotes.com/)
+    
+ -   Onenote: [https://www.onenote.com/](https://www.onenote.com/)
+    
+ -   Notability: [https://notesapp.io/](https://notesapp.io/)
+    
+ -   Notational Velocity: [http://notational.net/](http://notational.net/)
+    
+ -   Little outliner: [http://littleoutliner.com/](http://littleoutliner.com/)
+    
+ -   Free mind: [http://freemind.sourceforge.net/wiki/index.php/Main_Page](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
+    
+ - Obsidian: [https://obsidian.md/](https://obsidian.md/)
+
+
+
+<!-- # Literature Reviews -->
+
+<!-- ## What Goes Into It? -->
+
+<!-- # Information Sources -->
+
+<!-- ## Library Search -->
+
+<!-- ## Journal Search -->
+
+<!-- ## Database Search -->
+
+<!-- ## Google Scholar (Set and forget; export multiple files) -->
+
+<!-- ## Twitter -->
+
+<!-- ## Youtube (Yup, you heard right) -->
+
+<!-- Second largest search engine. Watch things at extra speed. Use playback speed or Chrome extension -->
+
+# Referencing
+
+#### Academic Referencing Modules (La Trobe Uni)
+
+#### Citation creators and reference managers
+
+ -   APA Citation Machine: [https://www.citationmachine.net/style](https://www.citationmachine.net/style)
+    
+ -   Mendeley: [https://www.mendeley.com/](https://www.mendeley.com/)
+    
+ -   Zotero: [https://www.zotero.org/](https://www.zotero.org/)
+    
+ - Citationsy: [https://citationsy.com](https://citationsy.com/)
+
+
+
+# Statistics
+
+#### Statistics software
+
+-   Google Data Studio: [https://datastudio.google.com/](https://datastudio.google.com/)
+    
+-   JASP (similar to SPSS): [https://jasp-stats.org/](https://jasp-stats.org/)
+    
+-   Jamovi (similar to SPSS): [https://www.jamovi.org/](https://www.jamovi.org/)
+    
+-   R: [https://www.r-project.org/](https://www.r-project.org/)
+    
+-   Process (Macro for SPSS or SAS; Beta version for R): [https://www.processmarco.org/download.html](https://www.processmarco.org/download.html)
+    
+-   Stata (may have access through institution): [https://www.stata.com/](https://www.stata.com/)
+    
+-   G Power: [https://stats.idre.ucla.edu/other/gpower/](https://stats.idre.ucla.edu/other/gpower/)
+    
+-   PSPP: [https://www.gnu.org/software/pspp/](https://www.gnu.org/software/pspp/)
+    
+-   Stats Cloud; [statscloud.app](https://t.co/L5S5CSAYCX?amp=1)
+    
+-   Gretl: [http://gretl.sourceforge.net/](http://gretl.sourceforge.net/)
+
+# Coding
+
+<!-- ## Datacamp -->
+
+<!-- ## Python -->
+
+
+
+
+# Scientific Communication
+
+#### Rmarkdown
+
+#### Netlify
+
+# Other Useful Tools
+
+## Time management
+
+-   Forest app (pomodoro/block social media): [https://www.forestapp.cc/](https://www.forestapp.cc/)
+    
+-   Tomato timer (pomodoro): [https://tomato-timer.com/](https://tomato-timer.com/)
+    
+-   Tomatoes (pomodoro): [http://www.tomato.es/](http://www.tomato.es/)
+    
+-   Cuckoo (pomodoro for teams): [https://cuckoo.team/](https://cuckoo.team/)
+    
+-   Toggl: [https://www.toggl.com/](https://www.toggl.com/)
+
+-   Read “Rescue Time”: [https://osf.io/tzaeh/](https://osf.io/tzaeh/)
+
