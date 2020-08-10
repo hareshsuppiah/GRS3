@@ -151,7 +151,7 @@ You'll be having plenty of meetings with your supervisor(s) and/or collaborators
 
 Minute taking during these meetings can help synthesize action points and act as a future reference on decisions made. Evernote has got a great template for capturing meeting notes:
 
-<img alt = 'Evernote meeting template' width='90%' src='/post/2020-08-07-graduate-research-student-toolkit_files/Evernote_meetings.JPG' />
+<img alt = 'Evernote meeting template' width='100%' src='/post/2020-08-07-graduate-research-student-toolkit_files/Evernote_meetings.JPG' /><figcaption>Evernote's meeting template</figcaption>
 
 
 # Note-taking
