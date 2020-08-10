@@ -4,7 +4,7 @@ title = "Haresh Suppiah"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
-sectionPagesMenu = "main"
+
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -21,6 +21,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/hareshsuppiah"
+    
+[[menu.main]]
+    name = "GRS Toolkit"
+    url = "/2020/08/07/graduate-research-student-toolkit/"
 
 [params]
     description = "A website built through Hugo and blogdown."
