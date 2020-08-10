@@ -4,14 +4,14 @@ title = "Haresh Suppiah"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
+sectionPagesMenu = "main"
+
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
-[[menu.main]]
-    name = "Posts"
-    url = "/post/"
+
 [[menu.main]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/hareshtsuppiah/"
@@ -35,10 +35,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    favicon = "HSfavicon.ico"
 
     [params.logo]
-    url = "logoLTU.png"
+    url = "HSicon.png"
     width = 100
     height = 100
     alt = "Logo"
