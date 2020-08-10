@@ -263,6 +263,8 @@ Minute taking during these meetings can help synthesize action points and act as
 <!-- #### Netlify -->
 
 # Social Media
+Social media outlets, especially Twitter, are a great way to yourself current with research outputs and topics of debate within the field. Following the right people makes a big difference.
+
 ## Sport and Exercise Science Twitter List
 -   Compilation of SES Twitter accounts to follow (compilied by my wonderful colleague [Mary Grant](https://twitter.com/MaryTGrant2)): [List of awesome SES Professionals](files/Social Media list - Sport and Exercise Science professionals.docx)
 
@@ -275,11 +277,7 @@ Minute taking during these meetings can help synthesize action points and act as
 -   Forest app (pomodoro/block social media): [https://www.forestapp.cc/](https://www.forestapp.cc/)
     
 -   Tomato timer (pomodoro): [https://tomato-timer.com/](https://tomato-timer.com/)
-    
--   Tomatoes (pomodoro): [http://www.tomato.es/](http://www.tomato.es/)
-    
--   Cuckoo (pomodoro for teams): [https://cuckoo.team/](https://cuckoo.team/)
-    
+
 -   Toggl: [https://www.toggl.com/](https://www.toggl.com/)
 
 -   Read “Rescue Time”: [https://osf.io/tzaeh/](https://osf.io/tzaeh/)
