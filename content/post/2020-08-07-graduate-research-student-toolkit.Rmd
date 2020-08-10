@@ -102,6 +102,10 @@ Here we have James Hayton, of 3 Month Thesis fame, providing great tips on the o
     
 -   ProWritingAid: [https://prowritingaid.com/](https://prowritingaid.com/)
 
+#### Manuscript writing tips
+
+
+
 # Project Management
 
 <a href="https://imgflip.com/i/3uq3ny"><img src="https://i.imgflip.com/3uq3ny.jpg" title="made at imgflip.com"/></a><figcaption>Picard ain't impressed</figcaption>
@@ -159,6 +163,8 @@ Minute taking during these meetings can help synthesize action points and act as
  -   Notion: [https://www.notion.so/](https://www.notion.so/)
     
  -   Evernote: [https://evernote.com/](https://evernote.com/)
+ 
+ -    Nototo (Visual note-taking app): [https://www.nototo.app/](https://www.nototo.app/)
     
  -   Squidnotes: [https://www.squidnotes.com/](https://www.squidnotes.com/)
     
@@ -217,6 +223,9 @@ Minute taking during these meetings can help synthesize action points and act as
 
 
 # Statistics
+
+#### Statistics references
+-   Laerd Statistics: [https://statistics.laerd.com/](https://statistics.laerd.com/)
 
 #### Statistics software
 
@@ -293,4 +302,15 @@ Social media outlets, especially Twitter, are a great way to yourself current wi
 -   Noisli (Customisable background sounds): [https://www.noisli.com/](https://www.noisli.com/)
 
 -   A Soft Murmur (Ambient sounds): [https://asoftmurmur.com/](https://asoftmurmur.com/)
+
+## Mindmapping
+
+-   Gitmind (Free online mind mapping and brainstorming tool): [https://gitmind.com/](https://gitmind.com/)
+
+-   Diagrams.net (Free online diagram software for making flowcharts, process diagrams, mindmaps): [https://app.diagrams.net/](https://app.diagrams.net/)
+## Other useful reference sites for research students
+
+-   The Thesis Whisperer (Fantastic resource for anyone working on a thesis): [https://thesiswhisperer.com/](https://thesiswhisperer.com/)
+
+-   Reddit for those working on PhD's: [https://www.reddit.com/r/PhD/](https://www.reddit.com/r/PhD/)
 
