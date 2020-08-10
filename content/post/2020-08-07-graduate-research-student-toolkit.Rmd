@@ -55,14 +55,15 @@ The wonderful people at University of Melbourne's Faculty of Business & Economic
 ```
 <!-- # Refining The Topic -->
 
-# Preparing Your Research Proposal
+<!-- # Preparing Your Research Proposal -->
+
 
 # The Research Checklist
 
 #### The Thesis Checklist
  - [ ] Step 1. Engaging in a conceptual conversation
- - [ ] Step 2. Creating the dissertation preprosal
- - [ ] Step 3. Approval of the preproposal by your advisor
+ - [ ] Step 2. Creating the dissertation proposal
+ - [ ] Step 3. Approval of the proposal by your advisor
  - [ ] Step 4. Collecting the literature
  - [ ] Step 5. Coding the literature
  - [ ] Step 6. Writing the literature review
@@ -105,6 +106,8 @@ Here we have James Hayton, of 3 Month Thesis fame, providing great tips on the o
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pM6orL-bGDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Manuscript writing tips
+
 #### Editing
 
 -   Reciteworks (check references): [https://reciteworks.com/](https://reciteworks.com/)
@@ -113,7 +116,7 @@ Here we have James Hayton, of 3 Month Thesis fame, providing great tips on the o
     
 -   ProWritingAid: [https://prowritingaid.com/](https://prowritingaid.com/)
 
-#### Manuscript writing tips
+
 
 
 
@@ -292,7 +295,7 @@ Social media outlets, especially Twitter, are a great way to yourself current wi
 
 # Other Useful Tools
 
-## Time management
+#### Time management
 
 -   Forest app (pomodoro/block social media): [https://www.forestapp.cc/](https://www.forestapp.cc/)
     
@@ -302,7 +305,7 @@ Social media outlets, especially Twitter, are a great way to yourself current wi
 
 -   Read “Rescue Time”: [https://osf.io/tzaeh/](https://osf.io/tzaeh/)
 
-## Music & background noise for productivity 
+#### Music & background noise for productivity 
 
 -   Coffitivity (Simulates ambient sounds from cafes): [https://coffitivity.com/](https://coffitivity.com/)
 
@@ -314,13 +317,13 @@ Social media outlets, especially Twitter, are a great way to yourself current wi
 
 -   A Soft Murmur (Ambient sounds): [https://asoftmurmur.com/](https://asoftmurmur.com/)
 
-## Mindmapping
+#### Mindmapping
 
 -   Gitmind (Free online mind mapping and brainstorming tool): [https://gitmind.com/](https://gitmind.com/)
 
 -   Diagrams.net (Free online diagram software for making flowcharts, process diagrams, mindmaps): [https://app.diagrams.net/](https://app.diagrams.net/)
 
-## Other useful reference sites for research students
+#### Other useful reference sites for research students
 
 -   The Thesis Whisperer (Fantastic resource for anyone working on a thesis): [https://thesiswhisperer.com/](https://thesiswhisperer.com/)
 
