@@ -196,7 +196,10 @@ Minute taking during these meetings can help synthesize action points and act as
 
 
 
-<!-- # Literature Reviews -->
+# Literature Reviews
+
+#### Google alerts
+When you've identified the keywords pertaining to your research, get [Google Alerts](https://www.google.com.au/alerts) and [Google Scholar Alerts](https://scholar.google.com/intl/en/scholar/help.html#alerts) to have the magic of search algorithms feed your inbox with the latest news and research automatically.
 
 <!-- ## What Goes Into It? -->
 
