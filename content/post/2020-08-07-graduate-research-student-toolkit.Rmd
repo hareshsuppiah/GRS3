@@ -140,7 +140,15 @@ Here we have James Hayton, of 3 Month Thesis fame, providing great tips on the o
 
 #### Meetings
 
+You'll be having plenty of meetings with your supervisor(s) and/or collaborators. However, for meetings to be timely and productive, an agenda is highly recommended. Here's a great example of an agenda from HBR:
+
 <a href="https://hbr.org/resources/images/article_assets/2015/03/W150313_SCHWARZ_MEETINGAGENDA-1-751x1024.png"><img src="https://hbr.org/resources/images/article_assets/2015/03/W150313_SCHWARZ_MEETINGAGENDA-1-751x1024.png" alt="Sample meeting agenda" border="0"></a><figcaption>Source: https://hbr.org/2015/03/how-to-design-an-agenda-for-an-effective-meeting</figcaption><br />
+
+
+Minute taking during these meetings can help synthesize action points and act as a future reference on decisions made. Evernote has got a great template for capturing meeting notes:
+
+<img alt = 'Evernote meeting template' width='90%' src='/post/2020-08-07-graduate-research-student-toolkit_files/Evernote_meetings.JPG' />
+
 
 # Note-taking
 
