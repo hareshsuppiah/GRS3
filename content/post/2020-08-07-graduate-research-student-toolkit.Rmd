@@ -18,6 +18,17 @@ If you've stubled onto this page, chances are that you've recently embarked on y
 
 <a href="https://i.imgflip.com/4ay3zi.jpg"><img src="https://i.imgflip.com/4ay3zi.jpg"/></a><figcaption>Which you fell for...</figcaption>
 
+<br>
+
+You'll rarely, if ever, find two identical PhD experiences. But the uncertainty that comes along with it, especially early on, is nearly omnipresent. 
+
+
+
+![PhD Life](/post/2020-08-07-graduate-research-student-toolkit_files/john-m-mola-johnmola-finishing-a-phd-is-like-finishing-59634151.png){width=85%}
+
+The wonderful people at University of Melbourne's Faculty of Business & Economics have provided a very useful and succinct guide to what a PhD [entails](https://library.unimelb.edu.au/__data/assets/pdf_file/0019/1924120/Completing_a_PhD.pdf). Here's a clip to give you a greater sense of what to expect throughout a PhD, keeping in mind that no two PhD experiences are alike.
+
+
 <!-- ## Expectation vs. Reality -->
 
 <!-- Chances are that if (Destination Dissertation) -->
@@ -25,7 +36,7 @@ If you've stubled onto this page, chances are that you've recently embarked on y
 <!-- <a href="https://images.squarespace-cdn.com/content/v1/5709439dc6fc08eb8239fb50/1549196123274-J5N4ZN8ULEO0LLJO5P5M/ke17ZwdGBToddI8pDm48kE_Flx8FzqgJ6wV1_BmCavpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxDowSvHNKM7uXktlTsd4PePhFwcAqvuqHhGG9Stix-l5CUypTMB8SVm3C-9T8WJqc/Complicated+vs+Complex.png?format=750w"><img src="https://images.squarespace-cdn.com/content/v1/5709439dc6fc08eb8239fb50/1549196123274-J5N4ZN8ULEO0LLJO5P5M/ke17ZwdGBToddI8pDm48kE_Flx8FzqgJ6wV1_BmCavpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxDowSvHNKM7uXktlTsd4PePhFwcAqvuqHhGG9Stix-l5CUypTMB8SVm3C-9T8WJqc/Complicated+vs+Complex.png?format=750w"/></a><figcaption>Complex vs Complicated - Credit: http://scotthutcheson.squarespace.com/journal/2019/2/2/complex-or-complicated.</figcaption> -->
 <!-- <br><br><br> -->
 
-Here's a clip to give you a sense of what to expect throughout a PhD. Keep in mind that no two PhD experiences are alike.
+
 ```{r, include= TRUE, message = FALSE, warning = FALSE}
 
 
@@ -314,6 +325,8 @@ Social media outlets, especially Twitter, are a great way to yourself current wi
 -   The Thesis Whisperer (Fantastic resource for anyone working on a thesis): [https://thesiswhisperer.com/](https://thesiswhisperer.com/)
 
 -   Reddit for those working on PhD's: [https://www.reddit.com/r/PhD/](https://www.reddit.com/r/PhD/)
+
+
 
 
 
